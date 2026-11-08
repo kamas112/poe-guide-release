@@ -14,8 +14,10 @@ PoE 길잡이 bundles or uses the following. Their licenses apply to those parts
 
 Not bundled: no file of Path of Exile. The first run reads the player's own installed Kakao client (read-only) and
 downloads the passive tree export from Grinding Gear Games' public repository
-[grindinggear/skilltree-export](https://github.com/grindinggear/skilltree-export). Path of Exile is a trademark of
-Grinding Gear Games; this is an unofficial fan tool.
+[grindinggear/skilltree-export](https://github.com/grindinggear/skilltree-export). For the gem vendors (not in the
+game files) it downloads `quests.json` of [exile-leveling](https://github.com/HeartofPhos/exile-leveling) (MIT, by
+HeartofPhos), whose vendor lists come from the [Path of Exile Wiki](https://www.poewiki.net). Path of Exile is a
+trademark of Grinding Gear Games; this is an unofficial fan tool.
 
 ## dat-schema (MIT)
 
